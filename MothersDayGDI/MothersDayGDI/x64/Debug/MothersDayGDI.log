@@ -1,0 +1,21 @@
+﻿  MothersDayGDI.cpp
+C:\Users\brent\source\repos\MothersDayGDI\MothersDayGDI\MothersDayGDI.cpp(62,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\brent\source\repos\MothersDayGDI\MothersDayGDI\MothersDayGDI.cpp(64,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\brent\source\repos\MothersDayGDI\MothersDayGDI\MothersDayGDI.cpp(89,28): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\brent\source\repos\MothersDayGDI\MothersDayGDI\MothersDayGDI.cpp(89,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\brent\source\repos\MothersDayGDI\MothersDayGDI\MothersDayGDI.cpp(89,73): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\brent\source\repos\MothersDayGDI\MothersDayGDI\MothersDayGDI.cpp(89,73): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\brent\source\repos\MothersDayGDI\MothersDayGDI\MothersDayGDI.cpp(90,28): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\brent\source\repos\MothersDayGDI\MothersDayGDI\MothersDayGDI.cpp(90,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\brent\source\repos\MothersDayGDI\MothersDayGDI\MothersDayGDI.cpp(90,92): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\brent\source\repos\MothersDayGDI\MothersDayGDI\MothersDayGDI.cpp(90,92): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\brent\source\repos\MothersDayGDI\MothersDayGDI\MothersDayGDI.cpp(91,28): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\brent\source\repos\MothersDayGDI\MothersDayGDI\MothersDayGDI.cpp(91,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\brent\source\repos\MothersDayGDI\MothersDayGDI\MothersDayGDI.cpp(91,92): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\brent\source\repos\MothersDayGDI\MothersDayGDI\MothersDayGDI.cpp(91,92): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\brent\source\repos\MothersDayGDI\MothersDayGDI\MothersDayGDI.cpp(92,28): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\brent\source\repos\MothersDayGDI\MothersDayGDI\MothersDayGDI.cpp(92,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\brent\source\repos\MothersDayGDI\MothersDayGDI\MothersDayGDI.cpp(92,92): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\brent\source\repos\MothersDayGDI\MothersDayGDI\MothersDayGDI.cpp(92,92): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  LINK : C:\Users\brent\source\repos\MothersDayGDI\x64\Debug\MothersDayGDI.exe not found or not built by the last incremental link; performing full link
+  MothersDayGDI.vcxproj -> C:\Users\brent\source\repos\MothersDayGDI\x64\Debug\MothersDayGDI.exe
